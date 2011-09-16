@@ -8,7 +8,7 @@
 Listado de tutoriales incluidos en el repositorio
 -------------------------------------------------
 
-	1) Matrices, aplicaci&oacute;n en retoque de im‡genes
+	1) Matrices, aplicacion en retoque de imagenes
 	   URL ( http://0057.es/labs/post/matrices-aplicacion-en-retoque-de-imagen )
 	2) Introduccion a Signals para Actionscript 3.
 	   URL ( http://0057.es/labs/post/introduccion-a-signals-para-actionscript-3 )
@@ -17,13 +17,13 @@ Listado de tutoriales incluidos en el repositorio
 Dependencias 
 ------------
 
- Necesitar‡s vincular las siguientes dependencias,librer’as swc para poder hacer funcionar el c—digo.
+ Necesitaras vincular las siguientes dependencias,librerias swc para poder hacer funcionar el codigo.
 
 	1) MinimalComps.
 	   URL ( http://code.google.com/p/minimalcomps/downloads/detail?name=MinimalComps_0_9_5.swc )
 	2) Signals.
 	   URL ( https://github.com/robertpenner/as3-signals/downloads )
-	3) Librer’a swc incluida en lib/framework_0057_v_0.1.swc
+	3) Libreria swc incluida en lib/framework_0057_v_0.1.swc
 
 Licencia
 --------
@@ -50,3 +50,8 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
+
+Notas
+-----
+"Dear Teacher, Apologies for missing accents."
