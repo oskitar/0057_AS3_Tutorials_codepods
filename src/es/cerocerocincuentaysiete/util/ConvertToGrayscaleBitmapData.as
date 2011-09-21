@@ -89,9 +89,9 @@ package es.cerocerocincuentaysiete.util
 		 */
 		private static function pixelToComponents(pixel : uint) : Array
 		{
-			var red : uint = pixel >> 16 | 0xFF;
-			var green : uint = pixel >> 8 | 0xFF;
-			var blue : uint = pixel | 0xFF;
+			var red : uint = pixel >> 16 & 0xFF;
+			var green : uint = pixel >> 8 & 0xFF;
+			var blue : uint = pixel & 0xFF;
 			return [red, green, blue];
 		}
 
